@@ -32,14 +32,8 @@ const faria = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with innovative minds</b> so if you want to collaborate or say <b>hi, I'll be happy to meet you!</b> :)</em>
 
 ---
-
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fariasultanacodes&theme=radical" width="100%" alt="Profile Details"/>
-  
-
-## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
