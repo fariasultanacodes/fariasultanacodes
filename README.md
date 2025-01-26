@@ -38,11 +38,6 @@ const faria = {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fariasultanacodes&theme=radical" width="100%" alt="Profile Details"/>
   
-  <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=fariasultanacodes&show_icons=true&theme=radical&hide_border=true" width="48%" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fariasultanacodes&theme=radical&hide_border=true" width="48%" alt="Streak Stats"/>
-  </div>
-</div>
 
 ## 🛠️ Tech Stack
 
